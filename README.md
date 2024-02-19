@@ -1,6 +1,6 @@
 # Solutions for HackerRank's Comprehensive Interview Preparation Kit
 
-This repository provides solutions for the [HackerRank Interview Preparation Kit], a comprehensive collection of challenges designed to help you prepare for interviews effectively.
+This repository provides solutions for the [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit), a comprehensive collection of challenges designed to help you prepare for interviews effectively.
 
 ## Core Concepts Covered
 
